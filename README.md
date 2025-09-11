@@ -23,33 +23,62 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
 
 ---
 
-### 🤖 Tecnologias e Estatísticas
+### 🤖 Linguagens e Tecnologias
 
-<table>
-<tr>
-<td valign="top">
+<img 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-#### Linguagens e Tecnologias
+<br> <!-- só um pequeno espaçamento -->
 
-<img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+### 📊 Estatísticas
 
-</td>
+<p>
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jeywysonleandro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<td valign="top">
-
-#### Estatísticas GitHub
-
-<img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=jeywysonleandro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-
-<img alt="GitHub Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeywysonleandro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-
-</td>
-</tr>
-</table>
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeywysonleandro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
 ---
 
@@ -57,12 +86,24 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
 
 <p align="center">
     <a href="https://www.linkedin.com/in/jeywyson-leandro-45a7a437b/">
-        <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
     </a>
     <a href="mailto:jeyads20@gmail.com">
-        <img alt="Gmail" title="Meu Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img 
+            alt="Gmail" 
+            title="Meu Gmail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
     </a>
     <a href="https://jeywysonleandro.github.io/">
-        <img alt="Portfólio" title="Meu Portfólio" src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+        <img 
+            alt="Portfólio" 
+            title="Meu Portfólio" 
+            src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"
+        />
     </a>
 </p>
