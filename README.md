@@ -61,24 +61,33 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br> <!-- só um pequeno espaçamento -->
+<br> <!-- espaçamento pequeno -->
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
+<table>
+<tr>
+<td valign="top">
+
+<img 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=jeywysonleandro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+/>
 
-  <img 
-    alt="GitHub Stats" 
+</td>
+<td valign="top">
+
+<img 
+    alt="GitHub Top Languages" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeywysonleandro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
