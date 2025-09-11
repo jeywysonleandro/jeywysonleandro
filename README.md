@@ -81,21 +81,21 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
 ### 📬 Contatos
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/jeywyson-leandro-45a7a437b/">
+    <a href="https://www.linkedin.com/in/jeywyson-leandro-45a7a437b/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:jeyads20@gmail.com">
+    <a href="mailto:jeyads20@gmail.com" target="_blank">
         <img 
             alt="Gmail" 
             title="Meu Gmail" 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://jeywysonleandro.github.io/">
+    <a href="https://jeywysonleandro.github.io/" target="_blank">
         <img 
             alt="Portfólio" 
             title="Meu Portfólio" 
@@ -103,3 +103,4 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
         />
     </a>
 </p>
+
