@@ -4,7 +4,6 @@
 
 Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21 anos e moro em Caruaru-PE. Atualmente, estou cursando Ciência da Computação. Compartilho meu aprendizado e projetos através do GitHub.
 
-
 <p align="left">
     <a href="https://github.com/jeywysonleandro?tab=repositories&sort=stargazers">
         <img 
@@ -87,4 +86,32 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeywysonleandro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
+
+---
+
+### 📬 Contatos
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/jeywyson-leandro-45a7a437b/">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:jeyads20@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Meu Gmail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://jeywysonleandro.github.io/">
+        <img 
+            alt="Portfólio" 
+            title="Meu Portfólio" 
+            src="https://img.shields.io/badge/Portf%C3%B3lio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
 </p>
