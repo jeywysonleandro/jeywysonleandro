@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21 anos e moro em Caruaru-PE. Atualmente, estou cursando Ciência da Computação. Compartilho meu aprendizado e projetos através do GitHub.
+Olá, me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21 anos e moro em Caruaru-PE. Atualmente, estou cursando Ciência da Computação. Compartilho meu aprendizado e projetos através do GitHub.
 
 <p>
     <a href="https://github.com/jeywysonleandro?tab=repositories&sort=stargazers">
