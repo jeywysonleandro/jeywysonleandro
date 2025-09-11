@@ -4,7 +4,7 @@
 
 Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21 anos e moro em Caruaru-PE. Atualmente, estou cursando Ciência da Computação. Compartilho meu aprendizado e projetos através do GitHub.
 
-<p align="left">
+<p>
     <a href="https://github.com/jeywysonleandro?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -26,7 +26,6 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -34,7 +33,6 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -42,7 +40,6 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -50,7 +47,6 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -58,7 +54,6 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -73,7 +68,6 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
 
 <p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -81,7 +75,6 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
   />
 
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeywysonleandro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
@@ -92,7 +85,7 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
 
 ### 📬 Contatos
 
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/jeywyson-leandro-45a7a437b/">
         <img 
             alt="LinkedIn" 
@@ -111,7 +104,7 @@ Me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21
         <img 
             alt="Portfólio" 
             title="Meu Portfólio" 
-            src="https://img.shields.io/badge/Portf%C3%B3lio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"
+            src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
 </p>
