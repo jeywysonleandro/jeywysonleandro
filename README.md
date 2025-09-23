@@ -51,7 +51,7 @@
   <a href="https://wa.me/5581993178587" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo"  />
   </a>
-  <a href="jeyads20@gmail.com" target="_blank">
+  <a href="mailto:jeyads20@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/jeywyson?igsh=YmY0aXl1bmg5Z2h6" target="_blank">
