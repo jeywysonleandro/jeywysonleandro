@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Olá, me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21 anos e moro em Caruaru-PE. Atualmente, estou cursando Ciência da Computação. Compartilho meu aprendizado e projetos através do GitHub.</p>
+<h4 align="center">Olá, me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21 anos e moro em Caruaru-PE. Atualmente, estou cursando Ciência da Computação. Compartilho meu aprendizado e projetos através do GitHub.</h4>
 
 ###
 
