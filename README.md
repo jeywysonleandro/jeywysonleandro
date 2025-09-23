@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=1E90FF&width=600&lines=𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟+𝕃𝕖𝕒𝕟𝕕𝕣𝕠" alt="Typing Animation" />
-</div>
+<h1 align="center">👨‍💻 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠</h1>
 
 ###
 
