@@ -1,110 +1,66 @@
-# 👨‍💻 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠
+<h1 align="center">👨‍💻 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠</h1>
 
-**`Estudante de Ciência da Computação`**
+###
 
-Olá, me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21 anos e moro em Caruaru-PE. Atualmente, estou cursando Ciência da Computação. Compartilho meu aprendizado e projetos através do GitHub.
+<h4 align="center">Estudante de Ciência da Computação</h4>
 
-<p>
-    <a href="https://github.com/jeywysonleandro?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/jeywysonleandro?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/jeywysonleandro?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/jeywysonleandro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+###
 
----
+<p align="center">Olá, me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 21 anos e moro em Caruaru-PE. Atualmente, estou cursando Ciência da Computação. Compartilho meu aprendizado e projetos através do GitHub.</p>
 
-### 🤖 Linguagens e Tecnologias
+###
 
-<img 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img align="right" height="116" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
 
----
+###
 
-### 📊 Estatísticas
+<h4 align="left">Main Skills :</h4>
 
-<p align="center">
-  <!-- Estatísticas gerais do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jeywysonleandro&show_icons=true&theme=tokyonight" width="450"/>
-  
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeywysonleandro&layout=compact&theme=tokyonight" width="300"/>
-</p>
+###
 
----
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
 
-### 📬 Contatos
+###
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/jeywyson-leandro-45a7a437b/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="mailto:jeyads20@gmail.com" target="_blank">
-        <img 
-            alt="Gmail" 
-            title="Meu Gmail" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="https://jeywysonleandro.github.io/" target="_blank">
-        <img 
-            alt="Portfólio" 
-            title="Meu Portfólio" 
-            src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=jeywysonleandro&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeywysonleandro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeywysonleandro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jeywysonleandro&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-### ✅ Commits
+###
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeywysonleandro/jeywysonleandro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeywysonleandro/jeywysonleandro/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeywysonleandro/jeywysonleandro/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jeywyson-leandro-45a7a437b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="gevisu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://wa.me/5581993178587" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="jeyads20@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/jeywyson?igsh=YmY0aXl1bmg5Z2h6" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/jeywysonleandro/jeywysonleandro/output/snake.svg" alt="Snake animation" />
+
+###
