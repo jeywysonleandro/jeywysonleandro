@@ -66,14 +66,11 @@ Olá, me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, te
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    src="https://camo.githubusercontent.com/5c8b084485fd6df163940a37159f43f78d756d35bf051dda2e8879fb9f85e46a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a65797779736f6e6c65616e64726f2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426696e636c7564655f616c6c5f636f6d6d6974733d74727565266c6f63616c653d70742d6272" 
-    width="450"
-  />
-  <img 
-    src="https://camo.githubusercontent.com/e33c7b00dbab606802355ac972f5a8e841429df2aa2efeae34c9171aa61c0156/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a65797779736f6e6c65616e64726f267468656d653d746f6b796f6e69676874266c61796f75743d636f6d7061637426637573746f6d5f7469746c653d5465636e6f6c6f67696173266c616e67735f636f756e743d39" 
-    width="300"
-  />
+  <!-- Estatísticas gerais do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jeywysonleandro&show_icons=true&theme=tokyonight" width="450"/>
+  
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeywysonleandro&layout=compact&theme=tokyonight" width="300"/>
 </p>
 
 ---
