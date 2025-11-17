@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
 </div>
 
 ###
