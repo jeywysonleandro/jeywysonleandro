@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Estudante de Ciência da Computação</h4>
+<h4 align="center"></h4>
 
 ###
 
