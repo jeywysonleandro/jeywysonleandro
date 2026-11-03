@@ -13,8 +13,6 @@
 - Estudando e evoluindo constantemente
 - Foco em construir soluções limpas, eficientes e escaláveis
 
----
-
 ## Tecnologias
 
 <div align="center">
