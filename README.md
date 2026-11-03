@@ -1,68 +1,69 @@
-<h1 align="center">👨‍💻 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠</h1>
-
-###
-
-<h4 align="center"></h4>
-
-###
-
-<h4 align="center">Olá, me chamo 𝕁𝕖𝕪𝕨𝕪𝕤𝕠𝕟 𝕃𝕖𝕒𝕟𝕕𝕣𝕠, tenho 22 anos. Sou desenvolvedor Backend.</h4>
-
-###
-
-###
-
-<img align="right" height="110" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
-
-###
-
-<h4 align="left">Main Skills :</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
+<!-- CABEÇALHO PRINCIPAL ANIMADO (com fundo roxo) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1500&color=E0AAFF&background=1A0033FF&center=true&vCenter=true&width=900&height=120&lines=Jeywyson+Leandro;Desenvolvedor+Backend" alt="Jeywyson Leandro - Desenvolvedor Backend" />
 </div>
 
-###
+---
+
+## Sobre mim
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+
+- Tenho **22 anos** e sou **Desenvolvedor Backend**
+- Estudando e evoluindo constantemente
+- Foco em construir soluções limpas, eficientes e escaláveis
+
+---
+
+## Tecnologias
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=jeywysonleandro&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jeywysonleandro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeywysonleandro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
- <img src="https://streak-stats.demolab.com/?user=jeywysonleandro&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,react&theme=dark" alt="skills" />
 </div>
 
-###
+<br>
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jeywysonleandro&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeywysonleandro&layout=compact&langs_count=6&theme=dracula&hide_border=true&border_radius=10" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=jeywysonleandro&theme=dracula&hide_border=true&border_radius=10" alt="streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=jeywysonleandro&theme=onedark&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies" />
+</div>
+
+<br>
+
+---
+
+## Contatos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeywyson-leandro-45a7a437b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="gevisu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/5581993178587" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jeyads20@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/jeywyson?igsh=YmY0aXl1bmg5Z2h6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
+  <a href="https://discord.com/users/377874288989962240" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
-###
+<br>
 
-<img src="https://raw.githubusercontent.com/jeywysonleandro/jeywysonleandro/output/snake.svg" alt="Snake animation" />
+<!-- COBRINHA -->
+<img src="https://raw.githubusercontent.com/jeywysonleandro/jeywysonleandro/output/snake.svg" alt="Snake animation" width="100%" />
+
+<!-- RODAPÉ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:2d0a4e,100:4a148c&height=120&section=footer" />
